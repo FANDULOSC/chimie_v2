@@ -31,7 +31,7 @@ def hy(event):
     feu.title(atome)
     texte1= Label(feu,text=f"atome:{atome}")
     texte2 = Label(feu, text="INSTA:lopysc7")
-    img = PhotoImage(file='assets1/hydrogene.PNG', master=feu)
+    img = PhotoImage(file='assets/hydrogene.PNG', master=feu)
     label1 = Label(feu, image=img, )
     texte3 = Label(feu,text=f"""
 Le symbol de cette atome est:{symbol}
@@ -1735,7 +1735,7 @@ def rhod(event):
     feu.title(atome)
     texte1 = Label(feu, text=f"atome:{atome}")
     texte2 = Label(feu, text="INSTA:lopysc7")
-    img = PhotoImage(file='assets1/rhodium.PNG', master=feu)
+    img = PhotoImage(file='assets/rhodium.PNG', master=feu)
     label1 = Label(feu, image=img, )
     texte3 = Label(feu, text=f"""
 Le symbol de cette atome est:{symbol}
@@ -2112,7 +2112,7 @@ def ar(event):
     feu.title(atome)
     texte1 = Label(feu, text=f"atome:{atome}")
     texte2 = Label(feu, text="INSTA:lopysc7")
-    img = PhotoImage(file='assets1/argent.PNG', master=feu)
+    img = PhotoImage(file='assets/argent.PNG', master=feu)
     label1 = Label(feu, image=img, )
     texte3 = Label(feu, text=f"""
 Le symbol de cette atome est:{symbol}
@@ -2586,7 +2586,7 @@ def indi(event):
     feu.title(atome)
     texte1 = Label(feu, text=f"atome:{atome}")
     texte2 = Label(feu, text="INSTA:lopysc7")
-    img = PhotoImage(file='assets1/indium.PNG', master=feu)
+    img = PhotoImage(file='assets/indium.PNG', master=feu)
     label1 = Label(feu, image=img, )
     texte3 = Label(feu, text=f"""
 Le symbol de cette atome est:{symbol}
